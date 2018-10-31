@@ -11,7 +11,14 @@ Use OpenStreetMap instead of Google Maps.
 
 Use OpenStreetMap instead of Google Maps using [leaflet](https://leafletjs.com/) and [Tablacus Maps API](https://tablacus.github.io/maps/).
 
+== Set up ==
+
+Open Tablacus maps option and set Tablacus Maps API and leaflet URLs.
+
 == Changelog ==
+
+= 1.0.1 =
+* Some fix
 
 = 1.0.0 =
 * First release
